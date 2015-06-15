@@ -1,6 +1,6 @@
 // 请换成自己的 appId 和 appKey
-var appId = '9p6hyhh60av3ukkni3i9z53q1l8yy3cijj6sie3cewft18vm';
-var appKey = 'nhqqc1x7r7r89kp8pggrme57i374h3vyd0ukr2z3ayojpvf4';
+var appId = 'j1ax3y6bn2vt7r2uunt5vofnf7tdm1do6pl54ksly3lwyri4';
+var appKey = 'vxy85bmgvo0m0ar3p5gh5knwvjpweq6v1bm8rd7b7rzpp702';
 var push;
 
 // 每次调用生成一个聊天实例
